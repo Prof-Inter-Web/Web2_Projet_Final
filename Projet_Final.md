@@ -59,7 +59,7 @@ Pour chaque page :
 - Utilisation de Pseudo-Éléments.
 - Utilisation de Media Queries pour assurer la compatibilité avec différents appareils.
 
-### Vous disposez de trois pages à concevoir : l'une devra incorporer la pseudo-classe, une autre l'aspect-ratio, et la troisième devra utiliser la pseudo-classe :has.
+#### Vous disposez de trois pages à concevoir : l'une devra incorporer la pseudo-classe, une autre l'aspect-ratio, et la troisième devra utiliser la pseudo-classe :has.
 - Utilisation avancée de Pseudo-Classes dans une page.
 - Inclusion d'un aspect-ratio dans une autre page.
 - Utilisation de la pseudo-Classe :has dans une troisième page.
