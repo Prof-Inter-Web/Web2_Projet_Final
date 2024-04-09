@@ -72,4 +72,11 @@ Au total, vous devez créer quatre pages en utilisant les outils et techniques e
 > [!WARNING]
 > Ce projet compte pour 40% de votre session, donc assurez-vous de faire preuve de `créativité et de dynamisme` (animées) dans la conception de vos pages.
 
+
+## Remise
+
+1. Renommez votre dossier "Projet_Final_[nom]_[prenom]".
+2. Zippez votre dossier "Projet_Final_[nom]_[prenom]".
+3. Joignez votre fichier .zip au devoir "EX03: Projet Final".
+
 # Bon travail ! 😊
