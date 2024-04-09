@@ -2,7 +2,7 @@
 ## Guide détaillé pour la création d'un portail numérique
 
 ### Exemple
-https://prof-inter-web.github.io/Musify/index.html
+<https://prof-inter-web.github.io/Musify/index.html>
 
 Le projet consiste à développer un portail numérique de type application. L'évaluation se fera sur la `créativité` et la capacité à rendre le portail `"responsive"`. Le portail doit comprendre une page d'accueil et trois autres pages en lien avec le thème choisi parmi les options suivantes :
 
