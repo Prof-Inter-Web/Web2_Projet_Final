@@ -15,7 +15,7 @@ Le projet consiste à développer un portail numérique de type application. L'�
 - etc.
 
 
-### ${{\color{Goldenrod}\Huge{\textsf{Page\ d'Accueil: \}}}}\$
+### Page d'Accueil:
 
 Lorsque l'utilisateur accède au portail, il doit être dirigé vers une page d'accueil comportant les éléments suivants :
 
@@ -33,7 +33,7 @@ Lorsque l'utilisateur accède au portail, il doit être dirigé vers une page d'
 - [ ] Utilisation de Pseudo-Classes.
 - [ ] Utilisation de Media Queries pour assurer la compatibilité avec différents appareils.
 
-### ${{\color{Goldenrod}\Huge{\textsf{Trois\ Autres\ Pages:\ \}}}}\$
+### Trois Autres Pages:
 
 Chacune de ces pages doit inclure :
 
