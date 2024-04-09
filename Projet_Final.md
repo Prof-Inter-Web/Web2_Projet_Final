@@ -23,19 +23,19 @@ Le portail doit comprendre une page d'accueil et trois autres pages en lien avec
 
 Lorsque l'utilisateur accède au portail, il doit être dirigé vers une page d'accueil comportant les éléments suivants :
 
-- [ ] Un logo représentatif du thème choisi.
-- [ ] Un menu de navigation.
-- [ ] Une ou plusieurs animations.
-- [ ] Fond d'écran (image ou dégradé).
-- [ ] Importation d'une police d'écriture.
-- [ ] Création de variables CSS.
-- [ ] Application d'un filtre.
-- [ ] Utilisation d'un mode de fusion.
-- [ ] Positionnement du logo avec CSS.
-- [ ] Intégration de transitions (par exemple, rotation, etc.).
-- [ ] Le menu peut être composé d'images ou de mots.
-- [ ] Utilisation de Pseudo-Classes.
-- [ ] Utilisation de Media Queries pour assurer la compatibilité avec différents appareils.
+- Un logo représentatif du thème choisi.
+- Un menu de navigation.
+- Une ou plusieurs animations.
+- Fond d'écran (image ou dégradé).
+- Importation d'une police d'écriture.
+- Création de variables CSS.
+- Application d'un filtre.
+- Utilisation d'un mode de fusion.
+- Positionnement du logo avec CSS.
+- Intégration de transitions (par exemple, rotation, etc.).
+- Le menu peut être composé d'images ou de mots.
+- Utilisation de Pseudo-Classes.
+- Utilisation de Media Queries pour assurer la compatibilité avec différents appareils.
 
 ### Trois Autres Pages:
 
@@ -45,22 +45,22 @@ Le menu de navigation pour permettre à l'utilisateur de passer d'une page à l'
 Déconstruction d'une image (images ou SVG) en plusieurs images pour appliquer des animations, transitions et transformations.
 Pour chaque page :
 
-- [ ] Fond d'écran (image ou dégradé).
-- [ ] Importation d'une police d'écriture.
-- [ ] Création de variables CSS.
-- [ ] Application d'un filtre.
-- [ ] Utilisation d'un mode de fusion.
-- [ ] Positionnement du logo avec CSS.
-- [ ] Intégration de transitions (par exemple, rotation, etc.).
-- [ ] Le menu peut être composé d'images ou de mots.
-- [ ] Utilisation de Pseudo-Classes.
-- [ ] Utilisation de Pseudo-Éléments.
-- [ ] Utilisation de Media Queries pour assurer la compatibilité avec différents appareils.
+- Fond d'écran (image ou dégradé).
+- Importation d'une police d'écriture.
+- Création de variables CSS.
+- Application d'un filtre.
+- Utilisation d'un mode de fusion.
+- Positionnement du logo avec CSS.
+- Intégration de transitions (par exemple, rotation, etc.).
+- Le menu peut être composé d'images ou de mots.
+- Utilisation de Pseudo-Classes.
+- Utilisation de Pseudo-Éléments.
+- Utilisation de Media Queries pour assurer la compatibilité avec différents appareils.
 
 ### Vous disposez de trois pages à concevoir : l'une devra incorporer la pseudo-classe, une autre l'aspect-ratio, et la troisième devra utiliser la pseudo-classe :has.
-- [ ] Utilisation avancée de Pseudo-Classes dans une page.
-- [ ] Inclusion d'un aspect-ratio dans une autre page.
-- [ ] Utilisation de la pseudo-Classe :has dans une troisième page.
+- Utilisation avancée de Pseudo-Classes dans une page.
+- Inclusion d'un aspect-ratio dans une autre page.
+- Utilisation de la pseudo-Classe :has dans une troisième page.
 
 
 ## Finalisation:
