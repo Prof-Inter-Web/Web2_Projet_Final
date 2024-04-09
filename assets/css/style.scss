@@ -12,10 +12,12 @@ body {
     background-color: #001628;
 }
 
+.markdown-body h2 {
+    border-bottom: none;
+}
 
 h2 {
   color: darkturquoise;
-  border-bottom: 0 solid #eaecef;
 }
 
 .markdown-body blockquote > :last-child {
