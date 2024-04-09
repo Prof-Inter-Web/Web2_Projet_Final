@@ -79,4 +79,4 @@ Au total, vous devez créer quatre pages en utilisant les outils et techniques e
 2. Zippez votre dossier "Projet_Final_[nom]_[prenom]".
 3. Joignez votre fichier .zip au devoir "EX03: Projet Final".
 
-# Bon travail ! 😊
+## Bon travail ! 😊
