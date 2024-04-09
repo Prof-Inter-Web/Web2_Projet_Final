@@ -1,7 +1,7 @@
 # Projet Final Web 2
 ## Guide détaillé pour la création d'un portail numérique
 
-![Musify](/Web2_Projet_Final/assets/projet.png)
+![Musify](/Web2_Projet_Final/assets/Projet.png)
 
 ### Exemple
 <https://prof-inter-web.github.io/Musify/index.html>
