@@ -70,7 +70,7 @@ Pour chaque page :
 Au total, vous devez créer quatre pages en utilisant les outils et techniques enseignés dans le cours. Cela inclut la création du code HTML et la préparation des images à l'aide de logiciels tels que Photoshop, Illustrator ou tout autre outil compatible avec SVG. 
 
 > [!WARNING]
-> Ce projet compte pour 40% de votre session, donc assurez-vous de faire preuve de `créativité et de dynamisme` (animées) dans la conception de vos pages.
+> Ce projet compte pour 40% de votre session, donc assurez-vous de faire preuve de `créativité et de dynamisme` (animations) dans la conception de vos pages.
 
 
 ## Remise
